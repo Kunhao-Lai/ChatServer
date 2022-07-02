@@ -7,9 +7,13 @@
 
 #### 编译依赖
 1、安装boost+muduo网络库开发环境
+
 2、安装mysql
+
 3、安装redis
+
 4、安装nginx
+
 5、安装CMake环境
 
 #### 编译方式
